@@ -1,6 +1,6 @@
 # Project: Image Classification with Hyperparameter Optimization
 ### This project focuses on building an image classification model using a fish dataset. The goal is to optimize the model's hyperparameters to improve performance while avoiding overfitting. 
-### Kaggle Notebook Link: https://www.kaggle.com/code/merizcan/image-classification-with-hyperparameter-optimize
+### Kaggle Notebook: https://www.kaggle.com/code/merizcan/image-classification-with-hyperparameter-optimize
 ### The following steps are implemented:
 
 ## 1. Data Collection and Preprocessing:
@@ -25,10 +25,10 @@
 2. Load the dataset into the appropriate directory.
 3. Execute the notebook: jupyter notebook Image Classification with Hyperparameter Optimize.ipynb.
 4. Evaluate model performance and adjust hyperparameters as needed.
-README (TR)
+
 # Proje: Hiperparametre Optimizasyonu ile Görüntü Sınıflandırma
 ### Bu proje, bir balık veri kümesi kullanarak görüntü sınıflandırma modeli geliştirmeye odaklanmaktadır. Modelin performansını artırmak için hiperparametre optimizasyonu uygulanmış ve aşırı öğrenmeyi önlemek hedeflenmiştir. 
-### Kaggle Notebook Link: https://www.kaggle.com/code/merizcan/image-classification-with-hyperparameter-optimize
+### Kaggle Notebook: https://www.kaggle.com/code/merizcan/image-classification-with-hyperparameter-optimize
 ### Aşağıdaki adımlar uygulanmıştır:
 
 ## Veri Toplama ve Ön İşleme:
